@@ -1,0 +1,186 @@
+{
+  "User": [
+    {
+      "email": "kk@gmail.com",
+      "password": "1234",
+      "id": "e61d"
+    },
+    {
+      "id": "5c54",
+      "email": "1234",
+      "password": []
+    },
+    {
+      "id": "982d",
+      "email": "1234",
+      "password": []
+    },
+    {
+      "id": "d8d0",
+      "email": "1234",
+      "password": []
+    },
+    {
+      "id": "0f81",
+      "email": "1234",
+      "password": []
+    },
+    {
+      "id": "b9b2",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "65dd",
+      "email": "",
+      "password": ""
+    }
+  ],
+  "Rigi": [
+    {
+      "id": "7b3d",
+      "fullName": "",
+      "email": "",
+      "username": "",
+      "password": "",
+      "phoneNumber": "",
+      "address": ""
+    },
+    {
+      "id": "8674",
+      "fullName": "Thinh",
+      "email": "",
+      "username": "",
+      "password": "",
+      "phoneNumber": "",
+      "address": ""
+    },
+    {
+      "id": "b5db",
+      "fullName": "Noi",
+      "email": "smclaksmksa",
+      "username": "sdvsdvds",
+      "password": "dsvdsmnvsd",
+      "phoneNumber": "0315313515",
+      "address": "s dvm s,md vms"
+    },
+    {
+      "id": "2a05",
+      "fullName": "ngkergerj",
+      "email": "kk@gmail.com",
+      "username": "sdjvnsdvjksdv",
+      "password": "1234",
+      "phoneNumber": "02313135135",
+      "address": "smdn msd bvmsdb vmsd"
+    },
+    {
+      "id": "3d00",
+      "fullName": "Khachhangmoi",
+      "email": "khachhang@gmal.com",
+      "username": "Khachhang",
+      "password": "1234",
+      "phoneNumber": "0123456789",
+      "address": "kjdfnfkdbk"
+    },
+    {
+      "id": "bec8",
+      "fullName": "ndsjkvnsjkdv",
+      "email": "sjnvsdkjvnsd",
+      "username": "sdvn,dsv,sd",
+      "password": "sd,vns,dnv,sdv",
+      "phoneNumber": "023165468488778877",
+      "address": "sdnvjsndkvjsdv"
+    },
+    {
+      "id": "0480",
+      "fullName": "Thinh",
+      "email": "dsncds",
+      "username": "sdvmsd ",
+      "password": "sd v,sdmv",
+      "phoneNumber": "0134646468",
+      "address": "smd v,sdmv"
+    },
+    {
+      "id": "f570",
+      "fullName": "thinh",
+      "email": "sdvlksdvmds",
+      "username": "ksdmvlksdmv",
+      "password": "123465468",
+      "phoneNumber": "099999999",
+      "address": "jsdnvkjds"
+    },
+    {
+      "id": "3f7c",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "7d34",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "be8a",
+      "email": "sdvlksdvmds",
+      "password": "123465468"
+    },
+    {
+      "id": "3658",
+      "email": "sdvlksdvmds",
+      "password": "123465468"
+    }
+  ],
+  "product": [
+    {
+      "id": "4",
+      "name": "Gà rán",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.2m9lbs0oK1Hxq6G4H9jtsgHaFa&pid=Api&P=0&h=220",
+      "description": "This is a new product",
+      "isFavorite": true,
+      "price": 4000
+    },
+    {
+      "id": "2",
+      "name": "Gà rán 2",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.2m9lbs0oK1Hxq6G4H9jtsgHaFa&pid=Api&P=0&h=220",
+      "description": "This is a new product",
+      "isFavorite": true,
+      "price": 7000
+    },
+    {
+      "id": "1",
+      "name": "Gà rán 1",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.2m9lbs0oK1Hxq6G4H9jtsgHaFa&pid=Api&P=0&h=220",
+      "description": "This is a new product",
+      "isFavorite": true,
+      "price": 8000
+    },
+    {
+      "id": "77",
+      "name": "Gà rán 3",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.2m9lbs0oK1Hxq6G4H9jtsgHaFa&pid=Api&P=0&h=220",
+      "description": "This is a new product",
+      "isFavorite": true,
+      "price": 7000
+    }
+  ],
+  "Giohang": [
+    {
+      "id": "3",
+      "name": "Gà rán 3",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.2m9lbs0oK1Hxq6G4H9jtsgHaFa&pid=Api&P=0&h=220",
+      "description": "This is a new product",
+      "isFavorite": true,
+      "price": 5000
+    },
+    {
+      "id": "2",
+      "name": "Gà rán 2",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.2m9lbs0oK1Hxq6G4H9jtsgHaFa&pid=Api&P=0&h=220",
+      "description": "This is a new product",
+      "isFavorite": true,
+      "price": 7000
+    }
+  ],
+  "Danhsachyeuthich": []
+}
